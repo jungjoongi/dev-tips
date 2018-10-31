@@ -2,7 +2,7 @@
 
 `ssh-key` 등 GitHub에 등록 다 하고 `git push`를 해보니 아래와 같은 에러가 난다.
 
->remote: Permission to HomoEfficio/spring-web-api-test-stubber.git denied to hanmomhanda.
+>remote: Permission to HomoEfficio/spring-web-api-test-stubber.git denied to hanmomhanda..
 
 ## 원인
 
