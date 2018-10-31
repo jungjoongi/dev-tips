@@ -1,4 +1,4 @@
-# (망할)Mac에서 git push 하다 에러나면..
+# (망할)Mac에서 git push 하다 에러나면...
 
 `ssh-key` 등 GitHub에 등록 다 하고 `git push`를 해보니 아래와 같은 에러가 난다.
 
